@@ -1,5 +1,5 @@
 import './App.css';
-import Kanban from './Kanban';
+import Kanban from './view/Kanban';
 
 function App() {
   return (
